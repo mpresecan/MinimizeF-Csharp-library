@@ -1,0 +1,4 @@
+c:\users\misko\documents\visual studio 2015\Projects\MinimizeFCom\MinimizeFCom\bin\Release\MinimizeFCom.dll
+c:\users\misko\documents\visual studio 2015\Projects\MinimizeFCom\MinimizeFCom\bin\Release\MinimizeFCom.pdb
+c:\users\misko\documents\visual studio 2015\Projects\MinimizeFCom\MinimizeFCom\obj\Release\MinimizeFCom.dll
+c:\users\misko\documents\visual studio 2015\Projects\MinimizeFCom\MinimizeFCom\obj\Release\MinimizeFCom.pdb
